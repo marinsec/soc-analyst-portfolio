@@ -44,4 +44,4 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 ---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/marin-jozanovic/)
+- [LinkedIn](https://www.linkedin.com/in/marin-jozanovic/)
