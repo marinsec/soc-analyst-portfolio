@@ -19,8 +19,11 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 ## Labs & Writeups
 
 ### TryHackMe
-- SOC Level 1 → coming soon  
-- Blue → coming soon  
+- SOC Level 1 → in progress  
+- Blue → in progress
+
+### Detection Projects
+- Brute Force Detection → [writeup](./labs/brute-force-detection)
 
 ---
 
@@ -41,4 +44,4 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 ---
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/marin-jozanovic/
+[LinkedIn](https://www.linkedin.com/in/marin-jozanovic/)
