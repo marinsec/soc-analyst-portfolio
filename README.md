@@ -19,11 +19,11 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 ## Labs & Writeups
 
 ### TryHackMe
-- SOC Level 1 → in progress  
+- SOC Level 1 → [Writeup](./labs/tryhackme/soc-level-1)  
 - Blue → in progress
 
 ### Detection Projects
-- Brute Force Detection → [writeup](./labs/brute-force-detection)
+- Brute Force Detection → [Writeup](./labs/brute-force-detection)
 
 ---
 
