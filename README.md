@@ -19,7 +19,7 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 ## Labs & Writeups
 
 ### TryHackMe
-- [SOC Level 1](./labs/tryhackme/soc-level-1)
+- [SOC Level 1](./labs/tryhackme/soc-level-1.md)
 - [Blue](./labs/tryhackme/blue.md)
 
 
