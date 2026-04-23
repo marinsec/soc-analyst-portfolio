@@ -1,9 +1,9 @@
 #  SOC Analyst Portfolio
 
 ## About Me
-Aspiring SOC Analyst with a focus on threat detection, log analysis, and incident response.
+Aspiring SOC Analyst focused on threat detection, log analysis, and incident response.
 
-I am actively developing hands-on skills using platforms like TryHackMe and working with real-world security tools.
+I am building hands-on defensive security skills through practical labs, detection projects, and security tool usage in controlled environments such as TryHackMe.
 
 ---
 
@@ -12,7 +12,7 @@ I am actively developing hands-on skills using platforms like TryHackMe and work
 - Threat Detection  
 - Incident Response  
 - Network Traffic Analysis  
-- SIEM (basic)  
+- SIEM Fundamentals 
 
 ---
 
