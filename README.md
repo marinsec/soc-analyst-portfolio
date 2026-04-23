@@ -25,6 +25,7 @@ I am building hands-on defensive security skills through practical labs, detecti
 
 ### Detection Projects
 - [Brute Force Detection](./labs/brute-force-detection)
+- [Phishing Analysis](./labs/phishing-analysis.md)
 
 ---
 
