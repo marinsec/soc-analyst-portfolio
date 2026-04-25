@@ -26,7 +26,7 @@ I am building hands-on defensive security skills through practical labs, detecti
 
 | Category | Lab / Project | Skills Demonstrated | Status |
 |---|---|---|---|
-| TryHackMe | [SOC Level 1](./labs/tryhackme/soc-level-1.md) | SOC fundamentals, alert triage, investigation workflow | In Progress |
+| TryHackMe | [SOC Level 1](./labs/tryhackme/soc-level-1.md) | SOC fundamentals, alert triage, investigation workflow | Completed |
 | TryHackMe | [Blue](./labs/tryhackme/blue.md) | Windows exploitation awareness, MS17-010 analysis, incident investigation | Completed |
 | Detection Project | [Brute Force Detection](./labs/brute-force-detection) | Log analysis, failed login detection, basic alert logic | Completed |
 | Detection Project | [Phishing Analysis](./labs/phishing-analysis.md) | Email analysis, URL inspection, IOC extraction | Completed |
