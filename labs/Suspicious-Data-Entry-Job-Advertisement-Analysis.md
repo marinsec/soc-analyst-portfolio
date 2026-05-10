@@ -33,7 +33,7 @@ The suspicious job advertisement was posted in a local Facebook group. The post 
 
 The poster's name and profile image were blurred to protect personal identity and keep the focus on the suspicious indicators rather than the individual account.
 
-![Suspicious Facebook Data Entry Job Post](screenshots/fake-data-entry-job-post.png)
+![Suspicious Facebook Data Entry Job Post](../screenshots/fake-data-entry-job-post.png)
 
 ---
 
