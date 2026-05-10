@@ -80,7 +80,7 @@ soc-analyst-portfolio/
 | TryHackMe | [Blue](./labs/tryhackme/blue.md) | Windows exploitation awareness, MS17-010 analysis, incident investigation | Completed |
 | Detection Project | [Brute Force Detection](./labs/brute-force-detection) | Log analysis, failed login detection, basic alert logic | Completed |
 | Detection Project | [Phishing Analysis](./labs/phishing-analysis.md) | Email analysis, URL inspection, IOC extraction | Completed |
-| Social Engineering Analysis | [Suspicious Data Entry Job Advertisement Analysis](./Suspicious-Data-Entry-Job-Advertisement-Analysis.md) | Scam detection, social engineering analysis, OSINT mindset, risk assessment, incident documentation | Completed |
+| Social Engineering Analysis | [Suspicious Data Entry Job Advertisement Analysis](./labs/Suspicious-Data-Entry-Job-Advertisement-Analysis.md) | Scam detection, social engineering analysis, OSINT mindset, risk assessment, incident documentation | Completed |
 
 ---
 
