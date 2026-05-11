@@ -56,22 +56,6 @@ Analyzed MS17-010/EternalBlue activity in a controlled TryHackMe lab environment
 
 ---
 
-## Repository Structure
-
-```text
-soc-analyst-portfolio/
-├── labs/
-│   ├── tryhackme/
-│   │   ├── soc-level-1.md
-│   │   └── blue.md
-│   ├── brute-force-detection/
-│   └── phishing-analysis.md
-├── README.md
-└── screenshots/
-```
-
----
-
 ## Labs & Writeups
 
 | Category | Lab / Project | Skills Demonstrated | Status |
