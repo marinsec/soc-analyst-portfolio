@@ -228,6 +228,7 @@ Key takeaways:
 - Defensive or aggressive behavior after basic questions is a strong warning sign.
 - Job scams often use the same psychological pressure techniques as phishing campaigns.
 - Private messages can be used to move victims away from public visibility and group moderation.
+- Suspicious job advertisements can target non-technical users who may not immediately recognize social engineering indicators.
 
 ---
 
