@@ -180,7 +180,17 @@ The following actions were taken after suspicious behavior was confirmed:
 2. No personal data, documents, banking details, or credentials were shared.
 3. The profile was blocked.
 4. The advertisement was treated as a likely scam attempt.
-5. The case was documented as an awareness and social engineering analysis exercise.
+5. The advertisement was reported to Facebook for suspected scam activity.
+6. The advertisement was later removed by Facebook.
+7. The case was documented as an awareness and social engineering analysis exercise.
+
+---
+
+## Outcome
+
+After the suspicious job advertisement was reported to Facebook for suspected scam activity, the advertisement was later removed by the platform.
+
+This outcome further supported the decision to treat the advertisement as unsafe and document the case as a social engineering awareness example.
 
 ---
 
@@ -244,4 +254,6 @@ Based on the available indicators, the Facebook job advertisement was assessed a
 
 The strongest indicators were the lack of employer transparency, avoidance of verification questions, vague job details, and a request for personal information before providing basic employer information.
 
-The safest response was to stop communication, avoid sharing any sensitive information, block the profile, and document the indicators for awareness and learning purposes.
+The safest response was to stop communication, avoid sharing any sensitive information, block the profile, report the advertisement to Facebook, and document the indicators for awareness and learning purposes.
+
+After the report was submitted, the advertisement was later removed by Facebook.
